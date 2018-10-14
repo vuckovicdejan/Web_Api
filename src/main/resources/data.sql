@@ -1,0 +1,5 @@
+INSERT INTO USER VALUES(1,sysdate(),'Wuckow');
+INSERT INTO USER VALUES(2,sysdate(),'Wuckow2');
+
+INSERT INTO POST VALUES(1001,'First Post',1);
+INSERT INTO POST VALUES(1002,'Second Post',1);
